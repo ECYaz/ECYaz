@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECYaz&theme=tokyonight&hide_border=true" alt="ECYaz Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ECYaz&theme=tokyonight&hide_border=true" alt="ECYaz Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECYaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ECYaz&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="ECYaz Trophies" />
 </p>
 
 ---
