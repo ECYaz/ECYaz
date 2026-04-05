@@ -19,18 +19,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ECYaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ECYaz GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ECYaz&theme=tokyonight&hide_border=true" alt="ECYaz Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ECYaz&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="ECYaz Trophies" />
-</p>
-
----
-
 *Always researching. Always building. Occasionally sleeping.*
