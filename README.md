@@ -15,7 +15,7 @@
 ### Featured Projects
 
 **[AISO](https://aiso-two.vercel.app) — AI Search Optimization**
-Audit platform that tells you whether AI models (Perplexity, GPT-4o, Gemini) mention your site for the keywords that matter. Submit a URL, get a scored visibility report, and get actionable fixes. Built on Next.js, Clerk, Neon Postgres, and Vercel AI Gateway.
+Audit platform that tells you whether AI models (Perplexity, GPT-4o, Gemini) mention your site for the keywords that matter. Submit a URL, get a scored visibility report, and get actionable fixes. 
 `TypeScript` `Next.js` `AI` `SEO` `LLM`
 
 **[The Terminal](https://theterminal.cc) — Crypto Futures Intelligence**
