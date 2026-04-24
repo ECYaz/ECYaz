@@ -12,6 +12,18 @@
 
 ---
 
+### Featured Projects
+
+**[AISO](https://aiso-two.vercel.app) — AI Search Optimization**
+Audit platform that tells you whether AI models (Perplexity, GPT-4o, Gemini) mention your site for the keywords that matter. Submit a URL, get a scored visibility report, and get actionable fixes. Built on Next.js, Clerk, Neon Postgres, and Vercel AI Gateway.
+`TypeScript` `Next.js` `AI` `SEO` `LLM`
+
+**[The Terminal](https://the-terminal-rust.vercel.app) — Crypto Futures Intelligence**
+Real-time crypto futures intelligence terminal. Built for traders who need signal clarity over noise.
+`TypeScript` `Next.js` `Crypto` `Trading` `Futures`
+
+---
+
 ### Currently deep in
 - AI agent architecture & multi-agent orchestration
 - Blockchain infrastructure & protocol R&D
