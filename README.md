@@ -14,6 +14,10 @@
 
 ### Featured Projects
 
+**phpBB AI — Tooling for the phpBB Community**
+AI tooling and research for the world's most-used open-source forum software. Roadmap: agent skill + Docker harness → AI pre-validator → 4.0 migration tool.
+`AI` `PHP` `Developer Tools` `Open Source`
+
 **[AISO](https://aiso-two.vercel.app) — AI Search Optimization**
 Audit platform that tells you whether AI models (Perplexity, GPT-4o, Gemini) mention your site for the keywords that matter. Submit a URL, get a scored visibility report, and get actionable fixes. 
 `TypeScript` `Next.js` `AI` `SEO` `LLM`
@@ -22,13 +26,9 @@ Audit platform that tells you whether AI models (Perplexity, GPT-4o, Gemini) men
 Real-time crypto futures intelligence terminal. Built for traders who need signal clarity over noise.
 `TypeScript` `Next.js` `Crypto` `Trading` `Futures`
 
-**BlocNet — Decentralized Web Hosting**
+**[BlocNet](https://blocnet.cc) — Decentralized Web Hosting**
 Deploy any static site to IPFS — permanently, censorship-resistant, and as simple as `blocnet deploy`. Node operators run a desktop client and earn monthly payouts for the bandwidth they serve.
 `TypeScript` `Next.js` `IPFS` `Electron` `Web3`
-
-**phpBB AI — Tooling for the phpBB Community**
-AI tooling and research for the world's most-used open-source forum software. Roadmap: agent skill + Docker harness → AI pre-validator → 4.0 migration tool.
-`AI` `PHP` `Developer Tools` `Open Source`
 
 **Panos et Fils — Field-Service Platform**
 Field-service management app — scheduling, job tracking, and on-the-ground logistics with live mapping.
